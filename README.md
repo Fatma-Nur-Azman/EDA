@@ -7,5 +7,8 @@ I've been working on various Exploratory Data Analysis (EDA) projects and decide
 I hope these projects inspire and provide valuable insights to others interested in data analysis. Feel free to explore the repository and leave your feedback!
 </br>
 </br>
-
-<img src="https://th.bing.com/th/id/OIG4.qP0zx9xJUs2CJ.ZhCYXB?w=1024&amp;h=1024&amp;rs=1&amp;pid=ImgDetMain" alt="eda explanatory data analysis ile midyeden inci bulma olayını metafor olarak görselleştirebilirmisin" class=" nofocus" tabindex="0" aria-label="eda explanatory data analysis ile midyeden inci bulma olayını metafor olarak görselleştirebilirmisin" role="button">
+</br>
+</br>
+</br>
+</br>
+<img src="https://th.bing.com/th/id/OIG4.qP0zx9xJUs2CJ.ZhCYXB?w=1000&amp;h=600&amp;rs=1&amp;pid=ImgDetMain" alt="eda explanatory data analysis ile midyeden inci bulma olayını metafor olarak görselleştirebilirmisin" class=" nofocus" tabindex="0" aria-label="eda explanatory data analysis ile midyeden inci bulma olayını metafor olarak görselleştirebilirmisin" role="button">
